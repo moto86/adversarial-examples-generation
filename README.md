@@ -1,5 +1,5 @@
 # adversarial-examples-generation
-foolboxで敵対的画像を生成するサンプルコードです．
+foolbox(https://arxiv.org/abs/1707.04131)で敵対的画像を生成するサンプルコードです．
 kerasを使っています．
 
 ```python
